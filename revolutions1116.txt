@@ -1,0 +1,4 @@
+1. user page 
+2. register page
+3. search panel
+4. redirect of illegal access
